@@ -1,120 +1,51 @@
 Traits
 ======
 
-+-----------------+-----------------+-----------------+-----------------+
-| Trait Name      | Cost            | Text            | Screenshot      |
-|                 |                 | Description     |                 |
-+=================+=================+=================+=================+
-| Mineral body    | 0               | Replace species |                 |
-|                 |                 | energy upkeep   |                 |
-|                 |                 | for mineral     |                 |
-|                 |                 | upkeep. -5% pop |                 |
-|                 |                 | upkeep and pop  |                 |
-|                 |                 | amenities       |                 |
-|                 |                 | usage, -10% pop |                 |
-|                 |                 | assembly speed  |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| |image|         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Organic Skin    | 0               | Replace species |                 |
-|                 |                 | energy upkeep   |                 |
-|                 |                 | for food        |                 |
-|                 |                 | upkeep. +10%    |                 |
-|                 |                 | pop upkeep.     |                 |
-|                 |                 | Organic empire  |                 |
-|                 |                 | +30 opinion if  |                 |
-|                 |                 | on founder      |                 |
-|                 |                 | species.        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| |image|         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Memory Backup   | 3               | Leaders from    |                 |
-|                 |                 | this species    |                 |
-|                 |                 | except ruler    |                 |
-|                 |                 | and nodes will  |                 |
-|                 |                 | revive if       |                 |
-|                 |                 | destroyed.      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Memory Share    | 3               | Leaders from    |                 |
-|                 |                 | this species    |                 |
-|                 |                 | except rulers   |                 |
-|                 |                 | and nodes will  |                 |
-|                 |                 | gain a level if |                 |
-|                 |                 | another leader  |                 |
-|                 |                 | of this species |                 |
-|                 |                 | levels up.      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Mil- Spec       | 1               | Army damage     |                 |
-|                 |                 | +20%, Pop       |                 |
-|                 |                 | upkeep -5%      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Enhanced        | 2               | Alloys from     |                 |
-| Cooling         |                 | jobs +10%, pop  |                 |
-|                 |                 | upkeep -5%      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Self            | 2               | Each pop with   |                 |
-| Replicating     |                 | this trait adds |                 |
-| Microbot        |                 | 0.02 monthy     |                 |
-|                 |                 | assembly.       |                 |
-|                 |                 | (Robot version  |                 |
-|                 |                 | of budding)     |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Traditional     | 1               | +15% unity      |                 |
-|                 |                 | output          |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| All-Terrain     | 2               | Species minimum |                 |
-| Hardening       |                 | habitability:   |                 |
-|                 |                 | +80%            |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Sensitive       | -1              | -100%           |                 |
-| Circuits        |                 | habitability,   |                 |
-|                 |                 | essentially     |                 |
-|                 |                 | removing robot  |                 |
-|                 |                 | ability to      |                 |
-|                 |                 | inhabit every   |                 |
-|                 |                 | planet.         |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Cheap Joints    | -3              | -5% job         |                 |
-|                 |                 | resources, +5%  |                 |
-|                 |                 | job upkeep      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Cheap           | -2              | -10% research   |                 |
-| Processors      |                 | from jobs       |                 |
-+-----------------+-----------------+-----------------+-----------------+
+.. csv-table:: Species Traits
+   :header: "Trait Name", "Points Cost", "Description", "Screenshot"
+   :widths: auto
+
+   "Mineral body", 0, "Replace species energy upkeep for mineral upkeep. -5% pop upkeep and pop amenities usage, -10% pop assembly speed", |Mineral body|
+   "Organic Skin", 0, "Replace species energy upkeep for food upkeep. +10% pop upkeep. Organic empire +30 opinion if on founder species.", |Organic Skin|
+   "Memory Backup", 3, "Leaders from this species except ruler and nodes will revive if destroyed.",
+   "Memory Share", 3, "Leaders from this species except rulers and nodes will gain a level if another leader of this species levels up.",
+   "Mil- Spec", 1, "Army damage +20%, Pop upkeep -5%",
+   "Enhanced Cooling", 2, "Alloys from jobs +10%, pop upkeep -5%",
+   "Self-Replicating Microbot", 2, "Each pop with this trait adds 0.02 monthy assembly. (Robot version of budding)",
+   "Traditional", 1, "+15% unity output",
+   "All-Terrain Hardening", 2, "Species minimum habitability: +80%",
+   "Sensitive Circuits", -1, "-100% habitability, essentially removing robot ability to inhabit every planet.",
+   "Cheap Processors", 2, "-10% research from jobs",
+   "Cheap Joints", -3, "-5% job resources, +5% job upkeep",
+
+
+.. |mineral body| image:: images/traits/358870490-dc50fabe-e579-48d4-b79b-16e7d13f2b57.png
+.. |organic skin| image:: images/traits/8602e989-681a-4791-ba60-9312cdafa91b.png
+
+
+
 
 Extended Machines
 -----------------
 
 These traits come from Legit-Rikk’s update of Extended Machines. They
 will be overridden by ``mute``\ ’s version of Extended Machines if that
-mod is active. The number in parenthesis is the trait points cost (or
-return).
+mod is active.
 
-+--------------------+------+-----------------------+------------+
-| Trait name         | Cost | Description           | Screenshot |
-+====================+======+=======================+============+
-| Adaptive           | 1    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Powered Adaptivity | 1    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Solar Powered      | 1    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Isotope-Powered    | 1    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Deviants           | -4   |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Captcha Locked     | 2    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Mesh Network       | 2    |                       | |image|    |
-+--------------------+------+-----------------------+------------+
-| Nanomachines       | 3    | **Cannot be added or  | |image|    |
-|                    |      | removed after game    |            |
-|                    |      | start**               |            |
-+--------------------+------+-----------------------+------------+
-| AI Splitting       | 2    | **Cannot be added or  | |image|    |
-|                    |      | removed after game    |            |
-|                    |      | start**               |            |
-+--------------------+------+-----------------------+------------+
+.. csv-table:: Extended Machines Traits
+   :header: "Trait Name", "Points Cost", "Description"
+   :widths: auto
+
+   "Adaptive", 1, "Habitability floor +15%"
+   "Powered Adaptivity", 1, "Pop habitability +25%, pops energy upkeep +15%"
+   "Solar Powered", 1, "Pop habitability in a given system is affected by the system star class. For example, +50% for Class A stars, and this bonus is reduced as the star size diminishes, with black holes and neutron stars affecting habitability at -50%"
+   "Isotope-Powered", 1, "Pop energy upkeep reduced by 50% and habitability improved by 25% in systems with pulars, black holes, neutron stars, or 'Toxoid' Stars"
+   "Deviants", -4, "For each 100 pops on a planet, deviancy is increased by 1 point."
+   "Captcha Locked", 2, "Production is affected by the presence of biological pops (+5% increase) and without biological pops, production is reduced by 5%"
+   "Mesh Network", 2, "For each 100 Units with this trait, all research output is increased by 0.25%, bureacrats produce 0.25% more, logistics production increased by 0.25%, with a maximum empire-wide bonus on each planet of 25%. So the more pops on a planet that have this trait, the better, and the bonuses work up to a limit."
+   "Nanomachines", 3, "**Cannot be added or removed after game start** A mini-civic which transforms pops into miniature machines. Pops with this trait have a flat -0.75 to housing usage. Until a given planet's population of Nanomachines reaches 10K, the pops receive bonus reductions to empire size, pop upkeep, and pop amenities usage. If the planet's population of Nanomachines surpasses 10K, these bonuses are converted into penalties. The curve for the bonuses tops out at 10K pops so players are incentivized to keep their planet populations small in order to strike an effective balance between planetary output and the bonus from nanomachines. If you have too few pops, the planet won't produce much."
+   "AI Splitting", 2, "**Currently deactivated after Phoenix 4.0 update** New leaders are immediately promoted to the same level as the empire's ruler, but don't get to pick traits for each skipped level."
+
 
 Overclocked Traits
 ------------------
@@ -126,61 +57,35 @@ edict is active.
 All Overclocked species traits have *5% Increased pop energy upkeep*,
 and cost 1 point
 
+.. note::
+	Unfortunately as of Phoenix 4.0 the glitch feature had to be removed from these traits. It was a monthly chance for pops with the trait to overheat, increased with each Overclocked trait added, thus reducing their production power. In Phoenix 4.0 it is not possible any more to target individual pops this way. Leaders, however, will still glitch. A very cool feature originally designed by `mute` was sadly broken by the base game updating.
+
 ======================== ==========
 Trait                    Screenshot
 ======================== ==========
-Turbo-charged Logic      |image|
-Sped-up Mining           |image|
-Energy Overflow          |image|
-Welded Smiles            |image|
-Expressed Tradition      |image|
-Farm Appendages          |image|
-Assembly-line Mentorship |image|
-Squeezed Power           |image|
-Hardened Adaptivity      |image|
-Elevated Junctions       |image|
-Pre-planned Assembly     |image|
-Excessive Endurance      |image|
+Turbo-charged Logic      |turbo-charged-logic|
+Sped-up Mining           |sped-up-mining|
+Energy Overflow          |energy-overflow|
+Welded Smiles            |welded-smiles|
+Expressed Tradition      |expressed-tradition|
+Farm Appendages          |farm-appendages|
+Assembly-line Mentorship |assembly-line-mentorship|
+Squeezed Power           |squeezed-power|
+Hardened Adaptivity      |hardened-adaptivity|
+Elevated Junctions       |elevated-junctions|
+Pre-planned Assembly     |pre-planned-assembly|
+Excessive Endurance      |excessive-endurance|
 ======================== ==========
 
-.. |image| image:: https://github.com/user-attachments/assets/dc50fabe-e579-48d4-b79b-16e7d13f2b57
-.. |image| image:: https://github.com/user-attachments/assets/23eb352e-d810-4296-9526-5f2cd070902d
-.. |image| image:: https://github.com/user-attachments/assets/fdb7debf-09a3-4dea-b2e4-b7f606f2184f
-.. |image| image:: https://github.com/user-attachments/assets/008df02e-ae06-4a67-9574-cb94fddc27aa
-.. |image| image:: https://github.com/user-attachments/assets/e114a3bd-fcdd-4ee8-b2fc-de8e573b7e7e
-.. |image| image:: https://github.com/user-attachments/assets/0fcb4005-db5a-42e7-8a43-64da17ca42c2
-.. |image| image:: https://github.com/user-attachments/assets/1e4c365f-d00a-4bd3-bdbb-84ff00ca3e94
-.. |image| image:: https://github.com/user-attachments/assets/7fffc6d5-0be6-4e0b-9d55-0734e996b4cb
-.. |image| image:: https://github.com/user-attachments/assets/1af3c29d-f80a-4822-a2ba-073f7d3e0ff2
-.. |image| image:: https://github.com/user-attachments/assets/2ad589e7-57d5-4721-8568-e474e2e26dcf
-.. |image| image:: https://github.com/user-attachments/assets/684096e4-8d53-462a-9bc3-721ff1bb1114
-.. |image| image:: https://github.com/user-attachments/assets/fdb7debf-09a3-4dea-b2e4-b7f606f2184f
-.. |image| image:: https://github.com/user-attachments/assets/008df02e-ae06-4a67-9574-cb94fddc27aa
-.. |image| image:: https://github.com/user-attachments/assets/e114a3bd-fcdd-4ee8-b2fc-de8e573b7e7e
-.. |image| image:: https://github.com/user-attachments/assets/0fcb4005-db5a-42e7-8a43-64da17ca42c2
-.. |image| image:: https://github.com/user-attachments/assets/1e4c365f-d00a-4bd3-bdbb-84ff00ca3e94
-.. |image| image:: https://github.com/user-attachments/assets/7fffc6d5-0be6-4e0b-9d55-0734e996b4cb
-.. |image| image:: https://github.com/user-attachments/assets/1af3c29d-f80a-4822-a2ba-073f7d3e0ff2
-.. |image| image:: https://github.com/user-attachments/assets/2ad589e7-57d5-4721-8568-e474e2e26dcf
-.. |image| image:: https://github.com/user-attachments/assets/684096e4-8d53-462a-9bc3-721ff1bb1114
-.. |image| image:: https://github.com/user-attachments/assets/fdb7debf-09a3-4dea-b2e4-b7f606f2184f
-.. |image| image:: https://github.com/user-attachments/assets/008df02e-ae06-4a67-9574-cb94fddc27aa
-.. |image| image:: https://github.com/user-attachments/assets/e114a3bd-fcdd-4ee8-b2fc-de8e573b7e7e
-.. |image| image:: https://github.com/user-attachments/assets/0fcb4005-db5a-42e7-8a43-64da17ca42c2
-.. |image| image:: https://github.com/user-attachments/assets/1e4c365f-d00a-4bd3-bdbb-84ff00ca3e94
-.. |image| image:: https://github.com/user-attachments/assets/7fffc6d5-0be6-4e0b-9d55-0734e996b4cb
-.. |image| image:: https://github.com/user-attachments/assets/1af3c29d-f80a-4822-a2ba-073f7d3e0ff2
-.. |image| image:: https://github.com/user-attachments/assets/2ad589e7-57d5-4721-8568-e474e2e26dcf
-.. |image| image:: https://github.com/user-attachments/assets/684096e4-8d53-462a-9bc3-721ff1bb1114
-.. |image| image:: https://github.com/user-attachments/assets/9fd61b33-d180-4aa8-8dcd-52f2c13f6682
-.. |image| image:: https://github.com/user-attachments/assets/a2f17b9d-0f55-4720-9044-a38cb9036310
-.. |image| image:: https://github.com/user-attachments/assets/20008589-6c34-4e6c-bc7b-94c5f4117ff8
-.. |image| image:: https://github.com/user-attachments/assets/9fe6a2ac-1eb2-455a-a16e-f5df2fd9f952
-.. |image| image:: https://github.com/user-attachments/assets/48f38ba0-c7af-41ac-ad86-f8498b4c4547
-.. |image| image:: https://github.com/user-attachments/assets/7dec3e72-ffea-46a3-9a1a-922cea2b350e
-.. |image| image:: https://github.com/user-attachments/assets/db1c7d4f-6d66-417f-a9a4-8e209dbcbe47
-.. |image| image:: https://github.com/user-attachments/assets/2cf0a7b8-d6c3-4dc3-82df-dd6a1affc146
-.. |image| image:: https://github.com/user-attachments/assets/9ac281ae-abb7-4ae4-a721-e38361920061
-.. |image| image:: https://github.com/user-attachments/assets/a064b6e0-9bfb-4389-a2bd-6cf6fe874057
-.. |image| image:: https://github.com/user-attachments/assets/d79eb59e-5e07-4c37-ad3c-c5a0db9ca143
-.. |image| image:: https://github.com/user-attachments/assets/8602e989-681a-4791-ba60-9312cdafa91b
+.. |turbo-charged-logic| image:: images/traits/turbo-charged-logic.png
+.. |sped-up-mining| image:: images/traits/sped-up-mining.png
+.. |energy-overflow| image:: images/traits/energy-overflow.png
+.. |welded-smiles| image:: images/traits/welded-smiles.png
+.. |expressed-tradition| image:: images/traits/expressed-tradition.png
+.. |farm-appendages| image:: images/traits/farm-appendages.png
+.. |assembly-line-mentorship| image:: images/traits/assembly-line-mentorship.png
+.. |squeezed-power| image:: images/traits/squeezed-power.png
+.. |hardened-adaptivity| image:: images/traits/hardened-adaptivity.png
+.. |elevated-junctions| image:: images/traits/elevated-junctions.png
+.. |pre-planned-assembly| image:: images/traits/pre-planned-assembly.png
+.. |excessive-endurance| image:: images/traits/excessive-endurance.png

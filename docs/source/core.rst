@@ -24,7 +24,7 @@ Added in Continuation:
 - Dismantle habitats (if your empire has any habitat tech)
 - Extended Machines traits & Overclocked origin (thanks Legit Rikk)
 - Reanimate defeated organic armies as a Machine empire
-- Roleplay a fully automated pop-less Machine empire with the "World-Machines, Awakened" origin[github.com]
+- Roleplay a fully automated pop-less Machine empire with the "World-Machines, Awakened" origin
 
 And more!
 
@@ -46,10 +46,9 @@ that triggers the GUI. Adding and removing traits costs resources, and
 for balance, a trait “point” system is used, much like species
 modification points.
 
-.. figure:: https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/b5395a9b-56d6-4a7b-aedd-a041049fc7f5
-   :alt: image
+.. figure:: images/leader-assembly-sample.png
+   :alt: Leader Assembly GUI can produce multiple copies of a newly designed leader.
 
-   image
 
 *No longer limited to selecting drones that meet eligibility
 requirements, our Machine empire fashions specialized leaders, taking
@@ -64,10 +63,9 @@ required)
 Much like the leader builder, this GUI focuses on editing the empire’s
 ruler. It also uses a traits points system.
 
-.. figure:: https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/6d84d6fd-bd2d-4bd7-8831-28a1391af2f0
-   :alt: image
+.. figure:: images/core-intelligence-mod-sample.png
+   :alt: Core Intelligence editor is available via edict.
 
-   image
 
 *When our empire’s leader becomes outdated, it will be necessary to
 retrofit bigger and better modules to govern and conquer.*
@@ -78,10 +76,9 @@ Councilor Editor (New in Continuation)
 -  New tech following Core Modification and Leader Building
 -  Custom GUI to edit each councilor, adding and removing traits
 
-.. figure:: https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/986cf08d-88eb-4b34-a1de-a2b4f5402760
-   :alt: documentation_councilor_editor
+.. figure:: images/core-councilor-editor-sample.png
+   :alt: Councilor Editor is available via edict. Trait additions and removals happen immediately.
 
-   documentation_councilor_editor
 
 Mod config menu
 ---------------
@@ -91,7 +88,5 @@ Mod config menu
 -  Toggle converting machines into primary Robot species (if playing as
    Mechanical)
 
-.. figure:: https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/edd669e8-7716-4667-bc96-f0271bef479c
-   :alt: image
-
-   image
+.. figure:: images/core-mod-config-menu-sample.png
+   :alt: Mod config menu is available via edicts

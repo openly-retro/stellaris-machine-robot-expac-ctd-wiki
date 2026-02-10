@@ -6,12 +6,18 @@
 Machine & Robot Expansion: Continued documentation
 ==================================================
 
-This mod is a continuation of XVCV's "Machines & Robot Expansion" , which is/was loved by many. A great addon for Machine empire enthusiasts which I loved playing. This continuation is by me, "Openly Retro"
-
+This mod is a continuation of XVCV's "Machines & Robot Expansion" , which is/was loved by many. A great addon for Machine empire enthusiasts which I loved playing -- it adds a variety of ascension perks, new playstyles, civics, traits, and much-needed love for Machines & Robots!
 
 Unfortunately, since XVCV has left the Stellaris modding scene, the M&RE mod became unsupported. The original mod by XVCV can be found here. https://steamcommunity.com/sharedfiles/filedetails/?id=2441507863 
 
-This adaptation/continuation will continue to make the Machine & Robot Expansion compatible with the latest versions of Stellaris. In addition to bug fixes, new things are being planned!
+This adaptation/continuation will continue to make the original Machine & Robot Expansion compatible with the latest versions of Stellaris. In addition to bug fixes, new features are being added!
+
+**Only one DLC is required for this mod: Synthetic Dawn** and it will stay that way.
+
+Machine & Robot Expansion: Continued, on the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3163759042
+
+
+------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -27,4 +33,4 @@ This adaptation/continuation will continue to make the Machine & Robot Expansion
    traits
    technologies
    patch_notes/index
-   
+   credits

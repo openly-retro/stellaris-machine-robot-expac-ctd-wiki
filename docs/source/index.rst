@@ -33,6 +33,40 @@ There are a few ways to get in touch about this mod, with general comments, feed
 3. Create an issue in the Github issues page for this mod: https://github.com/openly-retro/stellaris-machine-robot-expansion/issues
 
 
+About this documentation
+------------------------
+
+All the documentation here has been hand-written by me and where kind volunteers have helped, I have credited them.
+
+In some places I have swapped in screenshots for text, simply because there is so much to document and I only have ten fingers.
+
+.. important:: The documentation is a work in progress and in some places may be out of date. Please create an issue on the Github repo if you would like to report an error, as this site is non-interactive.
+
+
+Recent mod updates
+------------------
+
+Update: Feb 2 @ 1:46pm (Mod version 3.0.13)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Update and expand Simplified Chinese localisation
+
+Many thanks to Krukal and the Doves Team for their continued dedication and time for translating this mod.
+
+Update: Feb 1, 2026 @ 10:48pm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Mod version 3.0.11
+
+- Fixed Mind Separation project completion event not firing because there is no completed project in the log
+- Fixed Mechanical World decision not working as expected, because it was changing the planet class to a placeholder/dummy class and that method is not necessary anymore
+- Distributed Multikernel AP (vassals for machine gestalts) was being stopped by a base game rule "can_release_vassal", which I overwrote to let Machine empires with this AP release vassals, even though the rule "can_release_vassal_from_species" was working but still blocked releasing vassals (because of "can_release_vassal").
+- Triggers for adding/removing genetic traits from species got updated, they were slightly out of date with what is in the base game
+
+----
+
+
+
 .. toctree::
    :maxdepth: 2
    :glob:
@@ -49,3 +83,24 @@ There are a few ways to get in touch about this mod, with general comments, feed
    credits
    patch_notes/index
    devlog/index
+
+
+----
+
+
+The Unicorn of Insanity, my companion during many a coding session. Say hello!::
+
+                    \\
+                     \%,     ,'     , ,.
+                      \%\,';/J,";";";;,,.
+         ~.------------\%;((`);)));`;;,.,-----------,~
+        ~~:           ,`;@)((;`,`((;(;;);;,`         :~~
+       ~~ :           ;`(@```))`~ ``; );(;));;,      : ~~
+      ~~  :            `X `(( `),    (;;);;;;`       :  ~~
+     ~~~~ :            / `) `` /;~   `;;;;;;;);,     :  ~~~~
+    ~~~~  :           / , ` ,/` /     (`;;(;;;;,     : ~~~~
+      ~~~ :          (o  /]_/` /     ,);;;`;;;;;`,,  : ~~~
+       ~~ :           `~` `~`  `      ``;,  ``;" ';, : ~~
+        ~~:                             `'   `'  `'  :~~
+         ~`-----------------------------------------`~
+

@@ -33,4 +33,5 @@ Machine & Robot Expansion: Continued, on the Steam Workshop: https://steamcommun
    traits
    technologies
    patch_notes/index
+   overwrites
    credits

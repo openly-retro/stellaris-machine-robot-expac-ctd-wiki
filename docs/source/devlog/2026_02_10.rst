@@ -1,0 +1,23 @@
+Dev Log 2026-02-10 1 AM 
+======================
+
+The continuous changes in the base game really keep me busy. A lot of my modding time is spent keeping the mod up to date with changes in the base game. Triggers and effects change in each major release, which requires a lot of revamping.
+
+The Stellaris 4.0 update was a huge update that took me a couple of months to deal with. The developers changed the number of district types on planets, pops were reworked into groups, and lots of other things to deal with.
+
+There is another big update coming, Stellaris 4.3, for which there is an active beta. It fills me with trepidation wondering what will break in this mod as a result of the update, but also *what new bugs in the base game will arise independently from the ones in this mod.*
+
+To cut down on development time, and helping myself deal with huge systemic changes, I separated a lot of the mod's mini-features into a completely separate subfolder, and when I want to update any of the features, I work in the content in the subfolder (called 'features') and then sync from the features folder to the main mod.
+
+Another thing I've started doing is using Python code to produce code for various features. I already put together a massive amount of Python code to scrape the base game, read traits, and build three custom GUIs for this mod, plus hundreds of button effects, localisation strings, and more. The syntax of Clausewitz breaks so many assumptions from a programming standpoint that it is very hard to scrape, programmatically speaking. But of course not impossible!
+
+I'm very excited to be working on a new civic, one that lets Machine Empires move all of the orbital deposits from various systems into their home system! Raid the galaxy and leave it barren.
+
+I have come up with so many ideas over the past two years that I'll never ever finish them, simply because of life things, of base game updates breaking the mod, and caring for players and adopting their suggestions and responding to bug reports.
+
+Taking care of the community is very important to me. If a player spends time writing up a suggestion, or reporting a bug, I take it seriously and get to work on it.
+
+That's all I have to say for tonight.. I have to take care to get good sleep and not get pulled away by too many distractions! Life is wonderfully distracting.
+
+
+-Retro

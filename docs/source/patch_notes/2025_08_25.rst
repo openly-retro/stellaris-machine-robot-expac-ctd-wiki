@@ -1,0 +1,9 @@
+Update: Aug 25, 2025 @ 8:57am
+=============================
+
+Small batch of bug fixes:
+
+- Fix issue with Auto Machine world decisions not working because it is looking for 0 districts on the planet, but all planets are forced in 4.0 to have at minimum 1 district
+- Fix issue with Virtual Reality district showing up on Auto Machine World, after it was converted from a machine world
+- Forge district was using alloys as upkeep, now uses minerals (thank you Xianzhen for the report)
+- improperly formatted scripted Mechanical Worlds locs (thank you Exasperation for the report)

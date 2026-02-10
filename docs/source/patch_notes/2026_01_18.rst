@@ -1,0 +1,54 @@
+Update: Jan 18, 2026 @ 8:31pm
+=============================
+
+The GUI stuff is the major update in this patch. It has taken a lot of work, and is in a much better place now.
+
+Unfortunately there are *still* some bugs selecting certain traits in the various custom GUIs, because I have to create, from scratch, triggers to check that any traits can actually be added to leaders, as there are no triggers provided in the base game. Just many clues that need to be put together.
+
+Bugfixes:
+- Use 'is_uncapped', replacing 'is_capped_by_modifier' (Stellaris 4.2 requirement)
+- Add "drop weight" to ruined sinkhole deposit to prevent it from spawning where it should not (thanks Exasperation for the report and fix proposal)
+- Remove crystals build cost from the Crystal Cultivation tank (reported by JarrenBlake), also fix costs in the other two SR buildings
+- Mechanical trait was outdated, it is overridden by this mod
+- Removed some species archetype overrides that were interfering with some other mods
+- Dont subtract extra WMC on decision to start world
+- Other small bugfixes like typos and incorrect triggers/effects, wrong scope for things, etc.
+
+Balance / Improvements
+- Auto-Server anti-crime district has been updated to use a zone (district specialization) to apply empire-wide anti-crime modifiers. The Anti-Crime zone will be the default zone for that district, and the only zone available.
+- I am including some effects to clean up deposits on Auto-Server worlds that aren't in use anymore, in case your empire needs it you can use the Mod Config menu and run the effect from page 3 of the menu
+- The Councilor Editor feature has been revamped to grant more points and picks. Points will be based on leader level, combined with current tech level (for boosting Councilor Editor points), and a small bonus from Machine species points and picks bonuses.
+- The Leader Builder GUI has been revamped to tie in to the new repeatable techs for points and picks. Available trait points are 1:1 with selected leader level, so a level 10 leader will have at minimum 10 trait points to distribute. A level 10 leader will also get 10 picks, which is on par for the leveling-up experience that a leader would normally have.
+- The Core Intelligence GUI has been revamped with new mechanics, similar to the above. Ruler trait points are based on level + other bonuses, and picks are based on level + other bonuses. Techs can be researched to boost points and picks
+- Mechanical planets' numbers have been raised to be at least equivalent to Machine worlds, with regards to housing and jobs added per district level.
+- Nanomachine trait's maintenance drone job weight was adjusted to be slightly lower than the base game's Maintenance drone job, since it was reported that the weight was interfering with the base game's Nanomachine ascension playthroughs
+- World-Machine localisation strings have been shortened to fit the planet GUI
+
+Thanks ArchmageMC, Camille, and all others who provided lots of feedback about the custom GUIs.
+
+New stuff:
+- Repeatable tech for boosting Machine species points and picks, and Robot/Mechanical species points and picks
+- Repeatables for Councilor editor points and picks, Core Intelligence editor points/picks, Leader editor points/picks
+- Prescripted empire with a World Machine start. Spawning is disabled for this empire since the AI has no idea what to do with world machines, and I am not about to go down that rabbit hole right now, sorry.
+
+Contributions from Legit-Rikk:
+
+In addition to the list below, Rikk did a lot of behind-the-scenes work to organize things better for us mod devs. Thank you Rikk!
+
+- New Zones for Auto Machine World
+- New grid boxes, icons for new zones and swap districts
+- Changed World Machine start to have a logistics building instead of unity
+- Auto-Nanite transmuter was balanced (buffed)
+- Auto-Forge 3 can be built now, yay
+- New Strategic Resource zones for Synthesizer district on Auto-Forge world
+- Balancing of base district production across the board (buffed)
+- Cooling Towers planetary upgrade is a zone now
+- There is a tech which must be researched before being able to produce more rare resources on the Auto-Factory world
+- Update to planet sprites
+- Auto-Server logistics/trade district was fixed
+- Fix wrong spot for custom trigger inside rule for recruiting leaders which was blocking the leader pool from filling up in certain cases
+- Rebalanced various world machine production amounts to match vanilla
+- Implemented catalytic resource upkeep for consumer goods and strategic resources
+- incorrect localization for mechanical zone fixed
+- DISTRICT BACKGROUNDS what!!
+- and more!

@@ -24,12 +24,13 @@ I (openly-retro) am a web developer by day, and a fan of Stellaris. I enjoy scie
 Communicating
 -------------
 
-There are a few ways to get in touch about this mod:
+There are a few ways to get in touch about this mod, with general comments, feedback, questions:
 
-1. Chat with me about this mod in the Stellaris Modding Den discord, Look for `Openly Retro` in the `machines-robots-expac` channel. To find a link to the discord, visit this page: https://stellaris.paradoxwikis.com/Modding#Help_links
-2. Join the 'Discussions' area in the Github repo for this mod, you can report bugs, make suggestions, and talk generally about the mod there: https://github.com/openly-retro/stellaris-machine-robot-expansion/discussions 
-2. Create an issue in the Github issues page for this mod: https://github.com/openly-retro/stellaris-machine-robot-expansion/issues
+1. Use the Discussions feature on the mod's workshop page. Interacting with discussions lets me reply directly to you: https://steamcommunity.com/sharedfiles/filedetails/discussions/3163759042 If you leave a comment on the workshop's `Description` page, I'll not be able to reply you directly.
 
+2. Chat with me about this mod in the Stellaris Modding Den discord, Look for `Openly Retro` in the `machines-robots-expac` channel. To find a link to the discord, visit this page: https://stellaris.paradoxwikis.com/Modding#Help_links
+
+3. Create an issue in the Github issues page for this mod: https://github.com/openly-retro/stellaris-machine-robot-expansion/issues
 
 
 .. toctree::
@@ -47,3 +48,4 @@ There are a few ways to get in touch about this mod:
    overwrites
    credits
    patch_notes/index
+   devlog/index

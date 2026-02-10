@@ -1,0 +1,4 @@
+Update: Jan 23 @ 10:32pm
+========================
+
+- Bugfix of Core Modifying subclass button, where trigger was still checking for trait points, but trait points aren't required anymore for adding subclasses. Also fixed scope of some ruler checks.

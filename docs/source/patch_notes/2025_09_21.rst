@@ -1,0 +1,14 @@
+Update: Sep 21, 2025 @ 10:39pm
+==============================
+
+- Fix math for Warmachine bonus naval cap, the math was giving way too much bonus per pop
+- Fixed math for Production protocol, same issue as above, math was not scaled right
+- Fixed/updated bonuses for Nanomachines. The issue was that the bonus was the highest at low population levels, but then because of math, the bonus was very tiny because populations are tiny. So I have adjusted the bonuses provided by Nanomachines; smaller populations start at -1 housing and -1 amenities usage, and by 10k population, don't have a bonus any longer. The Nanomachine maintenance job is scaled a bit better to provide slightly more bonuses too
+- Fixed Bio Mech project completion event not firing
+- Fixed the amounts of unity produced by goods distribution to be scaled to Phoenix 4.0 pop levels (thanks Rikk)
+- Fix "Self-Assembling Colony Ship" ascension perk, which was not upgrading the capital building correctly
+- Fixed "After the Doomsday" origin, the other colonies were disappearing unexpectedly
+
+Improvements:
+- Reworked Goods Distributor civic, to be a perpetual edict until deactivated
+- Nanomachines trait can be added/removed if empire has completed Nanotech tradition (Thanks Exasperation for the suggestion)

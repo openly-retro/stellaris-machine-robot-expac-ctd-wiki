@@ -1,0 +1,5 @@
+Update: Aug 27, 2025 @ 12:49am
+==============================
+
+- Fix grand archive cost (inexistant mult) - Thanks Exasperation for the report
+- Only produce one batch of new Bio Mech pops per month, per planet - Thanks Raxze for the report

@@ -1,0 +1,6 @@
+Update: Feb 2 @ 1:46pm (Mod version 3.0.13)
+===========================================
+
+- Update and expand Simplified Chinese localisation
+
+Many thanks to Krukal and the Doves Team for their continued dedication and time for translating this mod.

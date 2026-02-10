@@ -1,0 +1,8 @@
+Update: Jan 22, 2026 @ 5:17pm 
+=============================
+
+- Fix scripted triggers that control when traits can be added to the ruler and councilors, via the Core Modifying and Councilor Editor GUIs. This should solve the long-running issue of traits presenting as clickable and then doing nothing when clicked.
+- Changing the ruler subclass via Core Modifying GUI doesn't cost any points, but does still cost resources
+- Fixed Auto-Society research building not producing any society research when upgraded (thanks KeterKadmon for the bug report)
+- Fixed World-Machine empires with Tactical Algorithms not starting with an Auto-Military Academy
+- Fixed Gestalt councilor portraits missing in the Councilor Editor GUIs

@@ -1,0 +1,7 @@
+Update: Sep 6, 2025 @ 3:04pm
+============================
+
+- Attempt to address World-Machine-related deposits appearing on other planets
+- Fix commented closing brace
+
+Thanks to "Exasperation", in the SMD discord, for reporting these issues.

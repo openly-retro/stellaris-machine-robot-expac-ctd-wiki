@@ -1,0 +1,61 @@
+Update: Oct 22, 2025 @ 1:24pm
+=============================
+
+This change set includes many fixes from Legit-Rikk; thank you Rikk!
+Welcome and thanks to guest contributor, Exasperation!
+Special thanks to Krukal (Silvery Mercury) of Doves Localisation Group, for all your help translating this mod's text to Chinese!
+
+Mod version 3.0.8, compatible with Stellaris v4.1.*
+
+Bug fixes (Rikk):
+- fix orbital cooling system from overriding cooling limits
+- Fixed some localisations which were too long in the planet view
+- Fixed a bug with the Dyson Receiver's effect on planets
+- synchronization arrays can now be queued
+- Machine World planet classes can be converted to Auto-Machine World using a core
+- auto_organoid_research_center adds food upkeep to Science districts
+- Fixed code recomposition project not granting code recomposition event (it fails the event trigger before the special project is marked as complete)
+- A few smaller fixes to make error.log more quiet
+
+Balance & Improvements (Rikk):
+- Outer core cooling project takes a lot more time now
+- Outer Core cooling deposit, and Outer core Tap deposits have had their bonuses reduced a bit
+- World Machine colony designations have been buffed slightly
+- Make certain event text more clear, during World Machine improvements special project
+- Terraforming from a regular habitable planet to a T3 Machine World (Forge, CPU, Server) will cost 2 World-Machine cores
+- Tier 1 of auto-farm, auto-mine, and auto-generator buildings don't have science upkeep (but will have science upkeep on subsequent upgrades)
+- Catalytic Converter empires will see their Consumer Goods structures using Food, and also Strategic Resources structures using Food
+- World Machine buildings and zones production values have been tweaked (scaled up slightly) to match Phoenix 4.0 base job production values. These may get tweaked again.
+
+New Stuff (Rikk):
+- Added auto trade hub starbase building
+- Added 3 new zones for energy, minerals, and food districts that take SR upkeep to increase their production
+
+Balance & Improvements (Exasperation):
+- Machine Learning civic is now compatible with World Machines
+- Fixed starting districts for World Machines when the Planet Cracker civic is selected
+
+Bug Fixes (Retro):
+- Resize all building icons to fit Lyra 4.1 standards
+- Auto-Factory planet name has been standardized across tooltips
+- Wacky scaling issues with unity districts on Auto-Server is fixed
+- Self Assembling Colony AP was leaving behind 2 buildings then destroying the lower-tier one, this has been fixed (Reported by Mongolow)
+- Bio Mech assembly was skyrocketing since a particular variable was not being reset each month, which let the assembly bonuses go to the moon (Reported by Tarka)
+- Bio Mech empires weren't able to remove bio traits (Reported by Arphar) now they can
+- Mechanical Planet starts with 200 roboticist jobs, it was missing being scaled up to match 4.0 values (Reported by Arphar) so it was starting with literally 1 roboticist job
+- Do not overwrite "mod_planet_bureaucrats_upkeep_mult" (reported by JadeBlood815)
+- trigger logic for can_remove_beneficial_traits was excluding Biogenesis DLC players from removing traits.. sorry folks, this should be fixed (reported by JadeBlood815)
+
+Balance & Improvements (Retro):
+- Create a unified Industrial colony designation
+- Improved Machine tradition pick, added a few new bonuses since +building slots is no longer relevant (Requested by Arphar)
+
+New Stuff (Retro):
+- Added research specializations for auto-generator, auto-mining, auto-farming districts
+- Add 3 district specializations to World Machines' primary district, for boosting energy, food, and mineral production
+- Auto-Factory's Munitions district has 3 zones: Naval cap, ground support (build armies faster, defensive army bonus), and a sublight speed-boosting zone
+- Certain zones have new specialization icons
+- Flavor text additions in various World Machine planetary buildings
+- New Auto-Research buildings, one for each type of research
+- Mechanical World has an updated planet background, using the Continental sky instead of the bleak Machine sky
+- Some primary district zones will send resource production to the Auto Capital, if those zones would have added jobs in the base game / vanilla version of the zone (because of differences in economic category between planets' primary zones). This is an experiment, and may be changed/removed later.

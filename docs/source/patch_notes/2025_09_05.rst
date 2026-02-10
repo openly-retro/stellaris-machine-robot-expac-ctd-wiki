@@ -1,0 +1,14 @@
+Update: Sep 5, 2025 @ 2:20pm
+============================
+
+Mod version 3.0.4
+
+Bugfixes:
+
+- Fix Automaton requisition decision making 40k pops (thanks minecon2 for reporting)
+- Fix requisitioned Automatons not being deleted at all after the timer expires
+- Fix World Machine blocker deposits showing up on non-World Machine planets (thanks Exasperation for reporting)
+- Fix Meshnet trait which was giving massive workforce bonuses
+- Fix situation targeting of ruined World Machine, so multiple empires can have the same situation
+- Core Modifying custom GUI had some traits that could not be added to the Core Intelligence, I have removed them from the GUI
+- Mind Integration AP was not firing event on completion, this has been fixed

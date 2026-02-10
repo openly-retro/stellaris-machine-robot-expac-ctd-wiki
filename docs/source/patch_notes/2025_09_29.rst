@@ -1,0 +1,34 @@
+Update: Sep 29, 2025 @ 3:47pm
+=============================
+
+Mod internal version 3.0.7, compatible with 4.1.*
+
+Bug fixes:
+- Ruined World Machine situation was not resolving as intended, this was due to an event target not persisting through the situation. Restoration events should have the planet name in the event windows, and also in the situation name.
+- Auto-logistics buildings had no cost and they could be built independently. (thanks Speedy for the report)
+- Add missing descriptions for a number of World-Machine zones
+- Product Fabricator can be built in World-Machine zones
+- Fix second capital building appearing on new WMs (it disappears after 2 days)
+- Auto-Orbital filing system wasn't applying unity bonuses to all planet classes
+- Fix typo which made Dyson Receiver un-buildable
+- Increase weight of blocker removal techs to appear, if those blockers are present on any planet in a player's empire
+- New Synthetic Age AP was boosting pop assembly way too much (thanks Mike for the report)
+- Found an obscure reference to Auto-Ringworlds that might have been causing Cooling/Overheating bonuses to be applied to them
+- Attempt to address over-aggressive Cooling district removal. The math was rounding a variable down so it was possible to get the wrong number of cooling districts removed.
+Include production districts modifiers
+- Update colony designations, fix incorrect references, also fix Auto-Capital (Extraction)
+- Don't hide factory colony designations
+- Fix text display for Nanomachines trait, it's been updated to reflect the new mechanic
+- Large batch of fixes to zones; fix wacky overscaled production and upkeep in some places
+- Fixed a conflict between Self-Assembling colony ship AP, and the logic to automatically install auto-capitals on World Machines. Now, preference will be given to Self-Assembling colony ship logic, so players with the AP will get their upgraded capital on planet colonization, rather than it being automatically removed by effects that are run when a world machine colony is created
+
+Improvements / Balance:
+- Adjust starting conditions for WM Origin if catalytic civic is selected
+- Reduce cost of restoring a ruined world machine to 2500 credits, same cost as starting a new planet with a core
+- Reduce cost of reactivating any WM to 500 ec and 200 alloys, same cost as building a colony ship
+- Colonization of WM planet classes is blocked for WM origin empires. Meaning, the button in the planet interface labeled "Colonize", and this is just for World-Machine planet classes, regular planets can still be colonized this way. There is a note to use the planetary decision to activate the planet. I made this choice because the game does not add the right amount of pops and do the right setup things on colonization, and it's easier to control planet set-up this way. The cost of the decision has been reduced to be the same as the cost of a colony ship (500 credits, 200 alloys)
+- New Synthetic Age gives a flat +35% to pop assembly, instead of the old system, since pop assembly has all been merged now in the base game. Bio Mech empires still benefit from an additional pop assembly boost to Bio Mech pops
+- Created 800x400 images for planet backgrounds to match new art dimensions
+- The "Cease Robot Assembly" decision has a new icon. I also changed the name to "Cease Pop Assembly" and added some flavor text and concepts for fun.
+- Cease Robot Assembly decision works on Bio-Mech pops now, I had set up a custom growth scheme for them, which went around vanilla mechanics
+- Move most district production into zones (specializations)

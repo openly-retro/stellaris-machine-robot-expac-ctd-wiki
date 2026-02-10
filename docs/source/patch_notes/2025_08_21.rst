@@ -1,0 +1,33 @@
+Update: Aug 21, 2025 @ 9:14am
+=============================
+
+Compatibility update with Stellaris 4.0.22
+
+Mod version v3.0.0a
+
+THERE WILL BE BUGS! Despite my best efforts to test everything.
+
+- All planet types have been redesigned to fit the 4-district limitation of the base game
+- Advanced World Machines have a primary Cooling district with secondary districts close to what they were in 3.14. There is new art for this district
+- The homeworld for the World Machine Origin starts out with an Industrial district as the primary district, and still has Generator, Mining, and Farming districts
+- Auto-Ringworld has a R&D District (trade or research), Industrial district (alloys or goods), and a Raw Resource district (generator or farm)
+- Mechanical Worlds have been reworked: City district (Primary), with Generator, Mining, and Farming districts
+- Virtual Server world has been reworked: Trade district (Primary), with Research, Unity, and Amenities districts. The Matter converter district has been replaced by a building, and tooltips got updated to reflect this
+- Traits and civics have been updated, they should still work as intended (fingers crossed)
+- The "Merchant Machine" civic has been deactivated since it was completely broken by the 4.0 update. It will take some time to rework it for 4.0
+- The "Overclocked" origin has been deactivated, since it's not possible to apply the glitched modifier to pops or pop groups. It will need to be redesigned and this is going to take some work
+- Bio-Mech pop growth system has been updated to work with 4.0 and may be slightly better than base Machine assembly
+
+Improvements / Fixes
+
+- Meshnet trait, Nanomachines trait, and Deviants traits have been reworked to be more performant. Instead of using script values they will use variables calculated once on day 2 of each month.
+- Added new icons for dyson deflectors and receivers (Thanks Legit-Rikk!)
+- Corpse Processor civic policy switches actually work now
+- A myriad of small bugfixes
+
+Known bugs:
+
+- Planet automations don't work (they don't work in the base game ...)
+- On Machine Worlds, Automaton pops don't always fill up the Hibernation job, they move to the Maintenance drone strata, so players will have to manually set the Hibernation job as priority
+
+Special thanks to KrukaL of Doves Localisation Group for the Chinese language translations!

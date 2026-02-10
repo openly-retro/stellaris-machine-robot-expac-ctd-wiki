@@ -1,0 +1,6 @@
+Update: Aug 23, 2025 @ 9:55am
+=============================
+
+- Fix dyson deflector build requirements
+- Mark World Machine upgrade deposits as rare
+- Fix decisions to convert worlds to ECU, SER, CPU: the minimum required districts was too low (zero), so the decisions couldn't be enacted.

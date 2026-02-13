@@ -26,11 +26,16 @@ Communicating
 
 There are a few ways to get in touch about this mod, with general comments, feedback, questions:
 
-1. Use the Discussions feature on the mod's workshop page. Interacting with discussions lets me reply directly to you: https://steamcommunity.com/sharedfiles/filedetails/discussions/3163759042 If you leave a comment on the workshop's `Description` page, I'll not be able to reply you directly.
+1. Chat with me about this mod in the Stellaris Modding Den discord, Look for `Openly Retro` in the `machines-robots-expac` channel. To find a link to the discord, visit this page: https://stellaris.paradoxwikis.com/Modding#Help_links
 
-2. Chat with me about this mod in the Stellaris Modding Den discord, Look for `Openly Retro` in the `machines-robots-expac` channel. To find a link to the discord, visit this page: https://stellaris.paradoxwikis.com/Modding#Help_links
+2. Create an issue in the Github issues page for this mod: https://github.com/openly-retro/stellaris-machine-robot-expansion/issues
 
-3. Create an issue in the Github issues page for this mod: https://github.com/openly-retro/stellaris-machine-robot-expansion/issues
+3. Participate in discussions on the workshop page for this mod (or create a new discussion there)
+
+   1. Suggestions for improvements: https://steamcommunity.com/workshop/filedetails/discussion/3163759042/7260435610011379418/
+
+   2. Bug reports: https://steamcommunity.com/workshop/filedetails/discussion/3163759042/529855118245500889/
+
 
 
 About this documentation

@@ -167,7 +167,9 @@ M.A.M.P. Frames
 
 **Machine Intelligence empires only**
 
-*New in Continuation* : Under active development. This feature is turned off while it is being reworked, but if you would like to try it in its current state, go to your console and do `effect = { set*country*flag = oxr*mdlc*ap*mamp*enabled }`
+.. note:: This feature has been turned off while it is being reworked
+
+*New in Continuation*
 
 *Maximally Automated, Minimally Populated: A chassis design paradigm for empires wishing to have fewer, more efficient pops.*
 

@@ -14,7 +14,13 @@ This adaptation/continuation will continue to make the original Machine & Robot 
 
 **Only one DLC is required for this mod: Synthetic Dawn** and it will stay that way.
 
-Machine & Robot Expansion: Continued, on the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3163759042
+.. csv-table:: Mod download links
+   :header: "Game version", "Steam Workshop Link"
+   :widths: auto
+
+   "Stellaris 4.2.*", https://steamcommunity.com/sharedfiles/filedetails/?id=3163759042
+   "Stellaris 3.14", https://steamcommunity.com/sharedfiles/filedetails/?id=3556722112
+
 
 Welcome
 -------
@@ -87,6 +93,7 @@ Mod version 3.0.11
    overwrites
    credits
    compat_mods
+   compat_mods_vanilla
    faq
    patch_notes/index
    devlog/index

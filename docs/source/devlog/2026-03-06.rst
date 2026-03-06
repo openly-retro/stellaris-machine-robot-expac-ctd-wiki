@@ -1,0 +1,22 @@
+Dev Log 2026-03-06 14:00 
+========================
+
+Quite a lot of work done on the documentation today. I have been working the past week on writing up Python scripts to go through the technology.txt files and auto-document them to include in these docs. It is going well, it's just time-consuming. I intend to expand the auto-documentation tool to other parts of the game like species traits, etc, to be able to have one script that fully documents a mod -- I think other modders will also enjoy it. Then keeping this whole documentation site up-to-date will be a lot easier. And I'll be able to humblebrag at the end that I did it all without LLMs. ;)
+
+In terms of mod content, players have been weighing in with their suggestions, and bug reports; I have been filing the reports and doing testing here and there to fix things. I have not added much new this month, as I have had quite a few things pop up IRL that have required my time.
+
+It is sometimes slightly disheartening when I have a really cool idea and actually it can't be done in Stellaris. I tried the other week to implement an empire policy that would convert pop growth speed into pop assembly speed. I thought it would be a simple thing to set up a country modifier with a variable in the value ... but that is surprisingly not supported. By "surprisingly" I mean that support for variables as values is near-ubiquitous in many parts of the game, so I just assumed.
+
+The shadow of Stellaris 4.3 is looming and I'm a bit anxious about it. Fortunately modder FirePrince has set up a tracker to identify triggers and effects added/removed, which I really appreciate.
+
+Legit-Rikk built a very cool Amalgamation world which I want to get in to the main mod. I have also been working on a "Compulsory Consolidator" civic which lets Machine empires abscond with orbital and planetary deposits >:)
+
+Modding for Stellaris is generally rewarding, I love fixing things and adding new stuff that players request. The part that's the most painful is of course updating the mod when the base game changes.
+
+I think something that will help extend the lifetime of the modding community and help new modders not burn out is some kind of scripting language that is simpler than Clausewitz, that can transpile to Clausewitz script (Stellaris' modding syntax). I also had an idea for a visual scripting language but that's well outside my wheelhouse now.
+
+I spent some time playing Star Ruler 2 -- I really like it a lot. I wish I could bring the "supply" system to Stellaris -- when fleets run out of supplies, they stop shooting :D it's a fun mechanic.
+
+That's all for now -- February marked the two-year anniversary of the continuation mod. I look forward to keeping this going.
+
+-Retro

@@ -1,7 +1,7 @@
 Compatibility Mods
 ##################
 
-A list of sub-mods that provide compatibility between this mod and another.
+A list of sub-mods that provide compatibility between this mod and others.
 
 World Machine Origin Gigastructures Buildings
 ---------------------------------------------
@@ -47,3 +47,4 @@ World Machine Origin ACoT Buildings
 
 .. _Legit Rikk: https://steamcommunity.com/profiles/76561198129975578/myworkshopfiles?appid=281990 
 .. _OlegY: https://steamcommunity.com/profiles/76561198417607797/myworkshopfiles?appid=281990 
+

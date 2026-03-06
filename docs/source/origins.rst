@@ -4,11 +4,11 @@ Origins
 Synthetic Ascended (Requires Utopia DLC)
 ----------------------------------------
 
-_Members of this society have ascended as synthetic beings even before they knew how to travel amongst stars._
+The empire starts as a Synthetic species. If players have the Machine Age DLC they'll see the Identity Complex building but will not continue the transformation situation.
 
 Effects:
 
-- Start with a Robotic founder species having **Mechanical** trait.
+- Start with a Robotic founder species having **Mechanical** (Synthetic) trait.
 - Monthly Energy: +10
 - Monthly Food: -10
 
@@ -27,7 +27,7 @@ _After they ascended as synthetic beings, our ancestors had shaped this world in
 Effects:
 
 - Start with a Robotic founder species having a **Mechanical** trait.
-- Start with a Mechanical World as your homeworld.
+- **Start with a Mechanical World as your homeworld.**
 - Monthly Energy: +10
 - Monthly Food: -10
 

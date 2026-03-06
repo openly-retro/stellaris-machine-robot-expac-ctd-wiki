@@ -111,6 +111,8 @@ Bio-Mechanical Hybrid
 * Unlocks policy: Bio-mechanical hybrid upkeep Control. This policy controls the pop upkeep of hybrid species, deciding whether pops should have energy upkeep, food upkeep, or some combination of both.
 * Numerous Bio-Mechanical traits are available to this species
 
+.. _ap_abyss:
+
 Interdimensional Exploration
 ----------------------------
 

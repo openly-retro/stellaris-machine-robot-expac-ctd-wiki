@@ -1,7 +1,7 @@
 Civics
 ======
 
-*Thanks ArchmageMC for writing these out*
+*Thanks ArchmageMC for the intial write-up of these*
 
 
 .. csv-table:: Civics

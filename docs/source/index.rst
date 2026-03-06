@@ -86,6 +86,7 @@ Mod version 3.0.11
    technologies
    overwrites
    credits
+   compat_mods
    faq
    patch_notes/index
    devlog/index

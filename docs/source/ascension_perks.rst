@@ -84,6 +84,7 @@ Voluntary Work
 *Our duty is to let our organic masters find their true pleasures, not from indolence and decadence but from labor and fulfillment.*
 
 Effects:
+
 * Will unlock new buildings and jobs for Bio-Trophy pops. These buildings can produce standard resources and strategic resources.
 
 War Protocol: Total War
@@ -103,10 +104,9 @@ Bio-Mechanical Hybrid
 
 **Common Ascension Perk**
 
-*We will breed a mixture of biological and mechanical kinds. This species with limitless potential will be the symbol showing pinnacle of our biology and engineering.*
+This Special Project will create a Species capable of having some Biological and Mechanical traits together, while being Cloned and Assembled at the same time.
 
 * Issues Special Project: Mechanical Hybrid Creation
-* This Special Project will create a Species capable of having some Biological and Mechanical traits together, while being Cloned and Assembled at the same time.
 * Unlocks building: Bio-Mechanical Clone Plants. This building provides jobs to add cloning progress of hybrid species.
 * Unlocks policy: Bio-mechanical hybrid upkeep Control. This policy controls the pop upkeep of hybrid species, deciding whether pops should have energy upkeep, food upkeep, or some combination of both.
 * Numerous Bio-Mechanical traits are available to this species
@@ -119,6 +119,8 @@ Interdimensional Exploration
 **Common Ascension Perk**
 
 *With properly transformed energy, we can make contact with an alternate dimension -- the Abyss, the world where it is filled with pure energy.*
+
+The Abyss is the Machine version of the Shroud. It has timed interactions and players can get technology rewards from it.
 
 Effects:
 
@@ -141,11 +143,12 @@ Mechanical Worlds
 
 *We shall shape our worlds into a mirror image of ourselves, replacing the frailty of biology with the immutable perfection of metal.*
 
+A Mechanical World is a special planet class that is not limited by Planetary Features in how many Generator, Mining, and Agriculture districts it can support. Pops living on Mechanical Worlds have their housing usage reduced by 10%.
+
 Effects:
 
 * Unlocks terraforming option: **Mechanical World**
 
-A Mechanical World is a special planet class that is not limited by Planetary Features in how many Generator, Mining, and Agriculture districts it can support. Pops living on Mechanical Worlds have their housing usage reduced by 10%.
 
 Robotic Age
 -----------
@@ -159,6 +162,8 @@ Effects:
 * Robot output: +10%
 * Pop assembly speed: +10%
 * Modify species special project cost: -33%
+* Unlocks a variety of traits for Synth empires
+
 
 Distributed Multikernel
 -----------------------
@@ -168,6 +173,7 @@ Distributed Multikernel
 *New in Continuation*
 
 This AP unlocks creating vassals from sectors for Machine intelligence empires.
+
 
 M.A.M.P. Frames
 ---------------
@@ -195,19 +201,3 @@ Planned changes & improvements:
 * Automated pop construction via edict
 * Additional Frames Cat 2 and 3, 5x and 10x output, respectively
 * Planetary pop limit restrictions similar to clone soldiers
-
-Perk
-
-![image](https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/0227038b-dce6-4cd8-bf04-01241f6feafa)
-
-Situation Log
-
-![image](https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/61af5ef0-c225-4e4d-a3e0-1114db7e5b53)
-
-Decision
-
-![image](https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/72f4b7d7-34e4-4215-9cf6-f5cc34130a08)
-
-Pop output sample
-
-![image](https://github.com/openly-retro/stellaris-machine-robot-expansion/assets/3236094/b0a04181-61fd-4986-9c3d-e9a91db0dc06)

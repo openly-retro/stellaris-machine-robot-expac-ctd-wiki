@@ -1,3 +1,5 @@
+.. _origin_world_machines:
+
 World-Machine, Awakened
 -----------------------
 

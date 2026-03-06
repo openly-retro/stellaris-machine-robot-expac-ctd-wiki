@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Machine & Robot Expansion: Continued documentation
-==================================================
+Machine & Robot Expansion: Continued
+####################################
 
 This mod is a continuation of XVCV's "Machines & Robot Expansion" , which is/was loved by many. A great addon for Machine empire enthusiasts which I loved playing -- it adds a variety of ascension perks, new playstyles, civics, traits, and much-needed love for Machines & Robots!
 
@@ -41,7 +41,7 @@ There are a few ways to get in touch about this mod, with general comments, feed
 About this documentation
 ------------------------
 
-All the documentation here has been hand-written by me and where kind volunteers have helped, I have credited them.
+All the documentation here has been hand-written by me and where kind volunteers have helped, I have credited them. No AI has been used in this documentation (or the mod either!)
 
 In some places I have swapped in screenshots for text, simply because there is so much to document and I only have ten fingers.
 
@@ -86,6 +86,7 @@ Mod version 3.0.11
    technologies
    overwrites
    credits
+   faq
    patch_notes/index
    devlog/index
 

@@ -25,6 +25,9 @@ Effects:
 * Issue special project: Base Source Code Overhaul
 * This Special Project will let you add or remove one of these Unique Civics: Determined Exterminator, Driven Assimilator, Rogue Servitor
 
+
+.. _ap_world_machines:
+
 World-Machines
 --------------
 
@@ -92,6 +95,8 @@ War Protocol: Total War
 
 * Unlocks War Goal: Total war
 * Victory with this War Goal can only be achieved by conquering all colonized systems of the opposition, ending the opposing empires.
+
+.. _ap_bio_mech:
 
 Bio-Mechanical Hybrid
 ---------------------

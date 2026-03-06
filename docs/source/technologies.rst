@@ -1,7 +1,7 @@
 Technologies (WIP)
 ==================
 
-*This page is incomplete, please accept my apologies --Retro*
+*This page is incomplete, please accept my apologies. I am working on a code solution to get these documented as there are lots of techs to document. --Retro*
 
 .. csv-table:: Machine Empire technologies
    :header: "Name", "Lore text", "Tier", "Effects", "Prerequisite(s)"

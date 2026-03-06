@@ -1,4 +1,4 @@
-Traits
+Traits (Species)
 ======
 
 .. csv-table:: Species Traits

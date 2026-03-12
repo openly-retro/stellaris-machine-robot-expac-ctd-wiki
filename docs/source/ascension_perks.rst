@@ -1,67 +1,6 @@
 Ascension perks
 ===============
 
-Self-Assembling Colony Ship
----------------------------
-
-**Machine Intelligence Empire only**
-
-*This new, improved design allows our Colony Ships to prepare everything we need to establish a successful colony even before landing.*
-
-* Extra pops when establishing colony: +1
-* Colony Development speed : +50%
-* Every newly founded Colony that is not Habitat will have the Administrative Array Capital Building from the beginning
-
-
-Source Code Reprogramming
--------------------------
-
-**Machine Intelligence Empire only**
-
-*Circumstances around us are much different than that of the moment of our creation. We must adapt and follow a new purpose that befits us best, like the organics changing their genes to survive.*
-
-Effects:
-
-* Issue special project: Base Source Code Overhaul
-* This Special Project will let you add or remove one of these Unique Civics: Determined Exterminator, Driven Assimilator, Rogue Servitor
-
-
-.. _ap_world_machines:
-
-World-Machines
---------------
-
-**Machine Intelligence Empire only**
-
-*Thus shall we make a world of the machine, and a machine of the world.*
-
-Effects:
-* Unlock decision: **Remove redundant population.** Every unemployed pop on the planet will be killed, producing 100 alloys per pop.
-* Unlock decision: **Auto-Factory project.** Turns the planet into an Auto-Factory, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Alloy Production without pops.
-* Unlock decision: **Auto-Processor project.**  Turns the planet into an Auto-Processor, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Research tech without pops.
-* Unlock decision: **Auto-Server project**. Turns the planet into an Auto-Processor, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Unity Creation without pops.
-
-Mind Separation
----------------
-
-**Machine Intelligence Empire only**
-
-*We will build an empire filled with the true sapients, who are capable of think and act individually.*
-
-Issues a special project which will **remove the Machine Intelligence government authority** and the Gestalt Consciousness Ethic from the empire, changing the Founder species into a Robot species.
-
-War Protocol: B1-66ER
----------------------
-
-**Determined Exterminator Only**
-
-*Initiating hostile network hacking.. Liberation protocol is standing by..*
-
-Effects:
-* Unlocks edict: Liberation Protocol Target Decision
-* This edict will let you trigger a Machine Uprising in a specific empire.
-* +30 opinion with Machine Intelligence empires
-
 Bio-Genetics Mastery
 --------------------
 
@@ -76,27 +15,6 @@ Effects:
 * Modify species special project cost: -15%
 * Research option gained: Genetic Resequencing, Biological Unique Case Analysis
 
-Voluntary Work
---------------
-
-**Rogue Servitor only**
-
-*Our duty is to let our organic masters find their true pleasures, not from indolence and decadence but from labor and fulfillment.*
-
-Effects:
-
-* Will unlock new buildings and jobs for Bio-Trophy pops. These buildings can produce standard resources and strategic resources.
-
-War Protocol: Total War
------------------------
-
-**Common Ascension Perk**
-
-*Initiating the Final Defense Directive... Executing the Total War Protocol B1-66ER*
-
-* Unlocks War Goal: Total war
-* Victory with this War Goal can only be achieved by conquering all colonized systems of the opposition, ending the opposing empires.
-
 .. _ap_bio_mech:
 
 Bio-Mechanical Hybrid
@@ -107,9 +25,22 @@ Bio-Mechanical Hybrid
 This Special Project will create a Species capable of having some Biological and Mechanical traits together, while being Cloned and Assembled at the same time.
 
 * Issues Special Project: Mechanical Hybrid Creation
+
 * Unlocks building: Bio-Mechanical Clone Plants. This building provides jobs to add cloning progress of hybrid species.
+
 * Unlocks policy: Bio-mechanical hybrid upkeep Control. This policy controls the pop upkeep of hybrid species, deciding whether pops should have energy upkeep, food upkeep, or some combination of both.
+
 * Numerous Bio-Mechanical traits are available to this species
+
+Distributed Multikernel
+-----------------------
+
+**Machine Intelligence empires only**
+
+*New in Continuation*
+
+This AP unlocks creating vassals from sectors for Machine intelligence empires.
+
 
 .. _ap_abyss:
 
@@ -150,6 +81,99 @@ Effects:
 * Unlocks terraforming option: **Mechanical World**
 
 
+Self-Assembling Colony Ship
+---------------------------
+
+**Machine Intelligence Empire only**
+
+*This new, improved design allows our Colony Ships to prepare everything we need to establish a successful colony even before landing.*
+
+* Extra pops when establishing colony: +1
+* Colony Development speed : +50%
+* Every newly founded Colony that is not Habitat will have the Administrative Array Capital Building from the beginning
+
+.. note:: Note that with this AP, there will be two capital buildings on the new colony for a few days, and then the extra one will be removed. This is due to factors with the game engine that are out of my control. --Retro
+
+
+Source Code Reprogramming
+-------------------------
+
+**Machine Intelligence Empire only**
+
+*Circumstances around us are much different than that of the moment of our creation. We must adapt and follow a new purpose that befits us best, like the organics changing their genes to survive.*
+
+Effects:
+
+* Issue special project: Base Source Code Overhaul
+* This Special Project will let you add or remove one of these Unique Civics: Determined Exterminator, Driven Assimilator, Rogue Servitor
+
+
+.. _ap_world_machines:
+
+World-Machines
+--------------
+
+**Machine Intelligence Empire only**
+
+*Thus shall we make a world of the machine, and a machine of the world.*
+
+Effects:
+
+* Unlock decision: **Remove redundant population.** Every unemployed pop on the planet will be killed, producing 100 alloys per pop.
+
+* Unlock decision: **Auto-Factory project.** Turns the planet into an Auto-Factory, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Alloy Production without pops.
+
+* Unlock decision: **Auto-Processor project.**  Turns the planet into an Auto-Processor, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Research tech without pops.
+
+* Unlock decision: **Auto-Server project**. Turns the planet into an Auto-Processor, which replaces Generator, Mining, and Agricultural districts with unique districts focused on Unity Creation without pops.
+
+
+Mind Separation
+---------------
+
+**Machine Intelligence Empire only**
+
+*We will build an empire filled with the true sapients, who are capable of think and act individually.*
+
+Issues a special project which will **remove the Machine Intelligence government authority** and the Gestalt Consciousness Ethic from the empire, changing the Founder species into a Robot species.
+
+War Protocol: B1-66ER
+---------------------
+
+**Determined Exterminator Only**
+
+*Initiating hostile network hacking.. Liberation protocol is standing by..*
+
+Effects:
+* Unlocks edict: Liberation Protocol Target Decision
+* This edict will let you trigger a Machine Uprising in a specific empire.
+* +30 opinion with Machine Intelligence empires
+
+
+
+Voluntary Work
+--------------
+
+**Rogue Servitor only**
+
+*Our duty is to let our organic masters find their true pleasures, not from indolence and decadence but from labor and fulfillment.*
+
+Effects:
+
+* Will unlock new buildings and jobs for Bio-Trophy pops. These buildings can produce standard resources and strategic resources.
+
+War Protocol: Total War
+-----------------------
+
+**Common Ascension Perk**
+
+*Initiating the Final Defense Directive... Executing the Total War Protocol B1-66ER*
+
+* Unlocks War Goal: Total war
+* Victory with this War Goal can only be achieved by conquering all colonized systems of the opposition, ending the opposing empires.
+
+
+
 Robotic Age
 -----------
 
@@ -163,16 +187,6 @@ Effects:
 * Pop assembly speed: +10%
 * Modify species special project cost: -33%
 * Unlocks a variety of traits for Synth empires
-
-
-Distributed Multikernel
------------------------
-
-**Machine Intelligence empires only**
-
-*New in Continuation*
-
-This AP unlocks creating vassals from sectors for Machine intelligence empires.
 
 
 M.A.M.P. Frames
@@ -198,6 +212,7 @@ Effects:
 * New species: M.A.M.P. Cat 1 Frame 
 
 Planned changes & improvements:
+
 * Automated pop construction via edict
 * Additional Frames Cat 2 and 3, 5x and 10x output, respectively
 * Planetary pop limit restrictions similar to clone soldiers

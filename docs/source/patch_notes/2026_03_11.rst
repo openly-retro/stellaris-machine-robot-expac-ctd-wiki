@@ -1,0 +1,19 @@
+Update March 11, 2026 22:40 EST
+===============================
+*Mod version 3.0.14*
+
+**Small bugfixes:**
+
+- Comment out "glitched" species trait, which was old WIP
+
+- Change Parallelized tradition to increase pop assembly instead of pop growth
+
+- Variety of small fixes to make error log quieter
+
+**Improvements:**
+
+- Add tradition swaps for Logistics tradition for World-Machine empires
+
+**New stuff:**
+
+- New planet class: "Amalgamation World", solution for Gestalt Machine empires that need a place to stash their "livestock". It can also be used by World-Machine empires, and is unlocked by a rare Statecraft tech. Thanks to Legit-Rikk for coding this up!

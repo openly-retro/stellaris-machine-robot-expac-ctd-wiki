@@ -57,22 +57,9 @@ In some places I have swapped in screenshots for text, simply because there is s
 Recent mod updates
 ------------------
 
-Update: Feb 2 @ 1:46pm (Mod version 3.0.13)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: patch_notes/2026_03_11.rst
 
-- Update and expand Simplified Chinese localisation
-
-Many thanks to Krukal and the Doves Team for their continued dedication and time for translating this mod.
-
-Update: Feb 1, 2026 @ 10:48pm
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Mod version 3.0.11
-
-- Fixed Mind Separation project completion event not firing because there is no completed project in the log
-- Fixed Mechanical World decision not working as expected, because it was changing the planet class to a placeholder/dummy class and that method is not necessary anymore
-- Distributed Multikernel AP (vassals for machine gestalts) was being stopped by a base game rule "can_release_vassal", which I overwrote to let Machine empires with this AP release vassals, even though the rule "can_release_vassal_from_species" was working but still blocked releasing vassals (because of "can_release_vassal").
-- Triggers for adding/removing genetic traits from species got updated, they were slightly out of date with what is in the base game
+.. include:: patch_notes/2026_02_02.rst
 
 ----
 

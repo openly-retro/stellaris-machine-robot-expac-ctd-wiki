@@ -127,8 +127,8 @@ A more powerful version of a Ringworld, and can produce significant research, al
 - Auto-Industrial: Produces alloys and/or consumer goods depending on colony designation
 
 
-Colony designations
--------------------
+World-Machine Colony designations
+---------------------------------
 
 Each world-machine type has several colony designations available, set up generally to help players focus on stacking a particular resource. There are also "standard" automation settings for each world-machine, which will build districts fairly evenly, including cooling districts.
 
@@ -189,3 +189,19 @@ Additionally, the planet has districts for boosting empire-wide amenities, enter
 - Trade
 - Admin (Unity)
 - Amenities (empire-wide)
+
+
+Amalgamation World
+******************
+*New in continuation*
+
+**Gestalt Machine empires**
+
+The Amalgamation world provides housing, amenities, and anti-deviancy mechanisms for Gestalt Machine empires needing to manage their "livestock" and other non-citizen occupants.
+
+**Districts (Stellaris 4.x+):**
+
+- Primary District: Provides Housing
+- Distribution Facility: Planetary amenities
+- Suppression Units: Control planetary deviancy
+- Processing Plants: Increase the amount of energy produced by livestock

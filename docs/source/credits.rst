@@ -18,6 +18,7 @@ Art Credits
 - `Fantastic technology futuristic`_ Image by `Alexander Ignatov`_ from `Pixabay (5)`_
 - `Blur background pattern geometric`_ Image by `Iris,Helen,silvy`_ from `Pixabay (6)`_ , used for World Machine event art
 - `Industry stole blast iron furnace`_ Image by `zephylwer0`_ from `Pixabay (7)`_, used for World Machine district background art
+- `Fractal mandelbub 3d action`_ Image by `Carroll MacDonald`_ from `Pixabay (8)`_, used for Amalgamation World background art
 
 .. _Digital Circuit: https://www.deviantart.com/xxaries1970xx/art/Digital-Circuit-936780185
 .. _Melvyn Thevenin: https://pixabay.com/users/joker39-30858803/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7547817
@@ -42,3 +43,7 @@ Art Credits
 .. _zephylwer0: https://pixabay.com/users/zephylwer0-621585/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=647399
 .. _Pixabay (7): https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=647399
 .. _Legit-Rikk: https://github.com/Legit-Rikk/
+.. _Fractal mandelbub 3d action: https://pixabay.com/illustrations/fractal-mandelbulb-3d-action-2722559/
+.. _Carroll MacDonald: https://pixabay.com/users/cpmacdonald-221347/
+.. _Pixabay (8): https://pixabay.com/users/cpmacdonald-221347/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2722559
+
